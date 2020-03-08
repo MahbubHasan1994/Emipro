@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Emipro</string>
+    <string name="Emi_Calculate">Emi Calculate</string>
+    <string name="Bank_Calculate">Bank Calculate</string>
+    <string name="Loan_Calculate">Loan Calculate</string>
+    <string name="Equity_Calculate">Equity Calculate</string>
+    <string name="Vat_Tax">VAT  &amp;  TAX Calculator</string>
+
 </resources>
